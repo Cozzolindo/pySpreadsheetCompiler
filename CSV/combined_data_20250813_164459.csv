@@ -1,0 +1,7 @@
+ID,Prod,Number,source_file
+1,Banana,2,sample_file_1.xlsx
+3,Orange,4,sample_file_1.xlsx
+5,Grape,6,sample_file_1.xlsx
+2,Apple,3,sample_file_2.xlsx
+4,Mango,5,sample_file_2.xlsx
+6,Strawberry,7,sample_file_2.xlsx
